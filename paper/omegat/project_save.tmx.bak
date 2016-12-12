@@ -1,0 +1,1405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_0_9319:9320" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(A) Several evaluations had limitations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T040531Z" creationid="eugeneai" creationdate="20161212T040444Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(B) Some authors provided little information about their algorithms, which makes it difficult to re-implement the approaches.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T040456Z" creationid="eugeneai" creationdate="20161212T040456Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(C) We speculated that minor variations in datasets, algorithms, or user populations inevitably lead to strong variations in the performance of the approaches.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T040814Z" creationid="eugeneai" creationdate="20161212T040814Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1.DocearMagdeburgGermany</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T034703Z" creationid="eugeneai" creationdate="20161212T034703Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1Email author</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T034655Z" creationid="eugeneai" creationdate="20161212T034655Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T034656Z" creationid="eugeneai" creationdate="20161212T034656Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2 Definitions
+We use the term “idea” to refer to a hypothesis about how recommendations could be effectively generated.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043759Z" creationid="eugeneai" creationdate="20161212T043620Z">
+        <seg>2 Определения. Под идеей понимается гипотеза, которую можно эффективно [породить].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2), followed by an introduction to related research fields (Sect.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043612Z" creationid="eugeneai" creationdate="20161212T043612Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.University of KonstanzKonstanzGermany</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T034724Z" creationid="eugeneai" creationdate="20161212T034724Z">
+        <seg>Университет г.Констанц, Германи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T034659Z" creationid="eugeneai" creationdate="20161212T034659Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3 Related research fields</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T055150Z" creationid="eugeneai" creationdate="20161212T055150Z">
+        <seg>3 Смежные научные направления</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043613Z" creationid="eugeneai" creationdate="20161212T043613Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T034701Z" creationid="eugeneai" creationdate="20161212T034701Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4), followed by an analysis of the 62 approaches that we chose for the in-depth review (Sect.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043615Z" creationid="eugeneai" creationdate="20161212T043615Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T055134Z" creationid="eugeneai" creationdate="20161212T055134Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043616Z" creationid="eugeneai" creationdate="20161212T043616Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043619Z" creationid="eugeneai" creationdate="20161212T043619Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7 Summary and outlook</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T055513Z" creationid="eugeneai" creationdate="20161212T055513Z">
+        <seg>7 Выводы и перспективы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A few approaches also utilized non-textual features, such as citations or authors.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T060227Z" creationid="eugeneai" creationdate="20161212T060227Z">
+        <seg>Некоторые подходы также используются нетекстовые элементы, такие как ссылки или авторов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A framework could either be built from scratch, or be based on existing frameworks such as MyMediaLite,33 LensKit,34 Mahout,35 Duine,36 RecLab Core,37 easyrec,38 or Recommender101.39 Finally, the community could benefit from considering research results from related disciplines.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T072145Z" creationid="eugeneai" creationdate="20161212T072145Z">
+        <seg>Среды приложений строились с нуля или на основе существующих сред, таких как MyMediaLite,33 LensKit 33, 34 Mahout, 35 Duine, 36 RecLab Core, easyrec 37, 38 Recommender 101. 39 И, наконец, сообщество может почерпнуто новые идеи и результаты из рассмотрения результатов исследований в смежных дисциплинах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A “recommendation algorithm” precisely specifies a recommendation approach.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T053156Z" creationid="eugeneai" creationdate="20161212T053126Z">
+        <seg>“алгоритм рекомендации” определяет конкретный подход и рекомендации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A “recommendation approach” is a model of how to bring a recommendation class into practice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T052756Z" creationid="eugeneai" creationdate="20161212T052756Z">
+        <seg>[Подход к рекомендации] - это модель того, как реализовать заданный класс рекомендации на практике.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A “recommender system” is a fully functional software system that applies at least one implementation to make recommendations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T054012Z" creationid="eugeneai" creationdate="20161212T054012Z">
+        <seg>таким образом, “рекомендательная система” - это полностью функциональное программное обеспечение, для которой существует по крайней мере одна реализация.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Algorithms are not necessarily complete.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T053525Z" creationid="eugeneai" creationdate="20161212T053525Z">
+        <seg>Алгоритмы не обязательно полны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although stereotyping is one of the oldest user modeling approaches, and is successfully applied by services, such as Yahoo!, only one of the reviewed approaches applied stereotypes as a fallback model when other recommendation approaches could not deliver recommendations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T070031Z" creationid="eugeneai" creationdate="20161212T070031Z">
+        <seg>Хотя стереотипирование является одним из старейших подходов к моделированию пользователей, и успешно применяется в сервисах типа Yahoo!, только один из рассмотренных подходов применял стереотипирование в качестве модели, причем как запасной вариант, когда другие подходы и рекомендации не позволяли вычислить рекомендации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although, we believe our survey to be the most comprehensive survey about research-paper recommender systems, we may have missed a few articles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T042507Z" creationid="eugeneai" creationdate="20161212T042507Z">
+        <seg>(эта статья-крутая, авторы знают все)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Annual publications in the field of research-paper recommender systems.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T042424Z" creationid="eugeneai" creationdate="20161212T042424Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Another 23 % had eight or nine pages, while only 26 % of the articles had four or less pages.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043255Z" creationid="eugeneai" creationdate="20161212T043255Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Another approach used co-citations to calculate document relatedness.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T070949Z" creationid="eugeneai" creationdate="20161212T070949Z">
+        <seg>В другом подходе используется анализ со-цитирование для расчета релевантности документов друг к другу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Articles presented at conferences in late 2013 most likely had not been published in conferences proceedings by January 2014, and hence were not found through our search.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T042603Z" creationid="eugeneai" creationdate="20161212T042603Z">
+        <seg>... в основном в трудах конференций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As a second limitation, we noted that many authors neglected to take into account factors other than accuracy, for example overall user satisfaction.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T041007Z" creationid="eugeneai" creationdate="20161212T041007Z">
+        <seg>(Основной оценкой РС является "удовлетворенность пользоватля")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Authors</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T034623Z" creationid="eugeneai" creationdate="20161212T034623Z">
+        <seg>Авторы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Authors and affiliations</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T034650Z" creationid="eugeneai" creationdate="20161212T034650Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bela Gipp</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T034655Z" creationid="eugeneai" creationdate="20161212T034655Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By “effectiveness,” we refer to the degree to which a recommender system achieves its objective.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T054518Z" creationid="eugeneai" creationdate="20161212T054518Z">
+        <seg>Термином “эффективность” обозначается степень того, что РС достигает своей цели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Citation counts overview for reviewed articles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043344Z" creationid="eugeneai" creationdate="20161212T043344Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Citation counts were retrieved from Google Scholar in early 2014.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043334Z" creationid="eugeneai" creationdate="20161212T043334Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collaborative filtering was applied by only 18 % of the reviewed approaches, and graph-based recommendations by 16 %.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T035250Z" creationid="eugeneai" creationdate="20161212T035250Z">
+        <seg>Коллаборативная фильтрация применяется только в 18 % из рассмотренных подходов, а построение рекомендаций  на основе тории графов (graph-based recomendations) составляет 16 %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consequently, researchers use different implementations of the same recommendations approaches, which might lead to variations in the results.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T040825Z" creationid="eugeneai" creationdate="20161212T040759Z">
+        <seg>-- Как правило, использование различных подходов к одной и той же задаче приводит к различным результатам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consequently, some users might be interested in novel research-paper recommendations, while others might be interested in authoritative research-paper recommendations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T054804Z" creationid="eugeneai" creationdate="20161212T054804Z">
+        <seg>Одни пользователи интересуются классическими надежными товарами, другие - новинками на рынке товаров и услуг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Content-based filtering (CBF) is the predominant recommendation class.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T060035Z" creationid="eugeneai" creationdate="20161212T060013Z">
+        <seg>Контент-фильтрация (CBF) - это преобладающий класс РС.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Corinna Breitinger</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T034700Z" creationid="eugeneai" creationdate="20161212T034700Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even researchers familiar with research-paper recommender systems would find it difficult to keep track of the current developments, since the yearly number of articles steadily increases: 66 of the 217 articles (30 %) were published just in 2012 and 2013 alone (Fig. 1; Table 1).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T042330Z" creationid="eugeneai" creationdate="20161212T042330Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, few research papers had an impact on research-paper recommender systems in practice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T041640Z" creationid="eugeneai" creationdate="20161212T041640Z">
+        <seg>На практике взаимодействие с учеными достаточно редко (мало было статей на эту тему)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, the “implementation” is the actual source code of an algorithm that can be compiled and applied in a recommender system.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T053737Z" creationid="eugeneai" creationdate="20161212T053737Z">
+        <seg>Наконец, “реализация” - фактический исходный код алгоритма, который может быть собран и применен в рекомендательной системе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, we examine the field of research-paper recommender systems in general, and point out some shortcomings, such as the neglect of user modeling, a strong focus on accuracy alone at the expense of other aspects being ignored and scarce information on the details of the algorithms used (Sect.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043618Z" creationid="eugeneai" creationdate="20161212T043618Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First, it remains unclear which recommendation concepts and approaches are the most promising.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T040109Z" creationid="eugeneai" creationdate="20161212T040109Z">
+        <seg>Во-первых, остается неясным, какие подходы к вычислению рекомендации (оценке интереса) являются наиболее перспективными.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For clarity, we use the term “article” to refer to the reviewed journal articles, patents, websites, etc., and the term “paper” to refer to documents being recommended by research-paper recommender systems.1 When referring to a large number of recommender systems with certain properties, we cite three exemplary articles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043032Z" creationid="eugeneai" creationdate="20161212T043032Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, an algorithm of a CBF approach would specify whether terms were extracted from the title of a document or from the body of the text, and how terms are processed (e.g., stop-word removal or stemming) and weighted (e.g., TF-IDF).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T053512Z" creationid="eugeneai" creationdate="20161212T053512Z">
+        <seg>Например, алгоритм CBF должен указать, следует ли извлекать ключевые последовательности слов из названия документа или текста, и каким образом следует обрабатывать эти последовательности (например, удалять ли стоп-слова, вычислять ли корни слов), и как проводить взвешивание (например, использовать ли алгоритм TF-IDF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, pseudo-code might contain only the most important information and ignore basics, such as weighting schemes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T053623Z" creationid="eugeneai" creationdate="20161212T053623Z">
+        <seg>Они могут быть заданы псевдо-кодом и содержать только самую важную информацию и игнорировать специфику, например схему взвешивания.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, researchers reported different results on the performance of content-based and collaborative filtering.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T040520Z" creationid="eugeneai" creationdate="20161212T040238Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, the idea behind CF can be realized with user-based CF [221], content-boosted CF [222], and various other approaches [223].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T052935Z" creationid="eugeneai" creationdate="20161212T052935Z">
+        <seg>Например, для класса CF существуют реализации с фильтрацией пользователей [221], фильтрация контента [222], и другие подходы [223].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, the recommendation classes collaborative filtering (CF) and content-based filtering (CBF) fundamentally differ in their underlying ideas: the underlying idea of CBF is that users are interested in items that are similar to items the users previously liked.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T052256Z" creationid="eugeneai" creationdate="20161212T052227Z">
+        <seg>Например, классы рекомендации такие, как коллаборативная фильтрация (CF) и контент-фильтрация (CBF) принципиально различаются друг от друга: основная идея CBF состоит в том, что пользователи интересуются предметами, которые похожи на предметы, которые им нравились раньше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, when we report how many recommender systems apply content-based filtering, we report the number and provide three references [7, 58, 80].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043041Z" creationid="eugeneai" creationdate="20161212T043041Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From 62 reviewed approaches, 34 used CBF (55 %).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T060108Z" creationid="eugeneai" creationdate="20161212T060027Z">
+        <seg>Из 62 рассмотренных подходов, 34 используют CBF (55 %).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From the reviewed articles, 31 % had no citations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043329Z" creationid="eugeneai" creationdate="20161212T043329Z">
+        <seg>(31% статей не имели списка литературы)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From these CBF approaches, the majority utilized plain terms contained in the documents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T060200Z" creationid="eugeneai" creationdate="20161212T060200Z">
+        <seg>Большинство CBF-РС используют простые термины, содержащиеся в документах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Given these results, we believe that a more thorough analysis of stereotype recommendations could be interesting.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T070258Z" creationid="eugeneai" creationdate="20161212T070258Z">
+        <seg>Учитывая эти результаты, мы считаем, что более тщательный анализ рекомендаций на основе стереотипирования может представлять интересно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hence, finding the most promising approaches is a challenge.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T040931Z" creationid="eugeneai" creationdate="20161212T040931Z">
+        <seg>В настоящее время нет строгих рекомендаций к использованию того или иного подхода для решения поставленной задачи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hence, implicit instead of explicit ratings were used.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T065511Z" creationid="eugeneai" creationdate="20161212T065511Z">
+        <seg>Поэтому неявные рейтинги были использованы вместо явных оценок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hence, the total number of papers published is probably higher than 217
+Table 1</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T042626Z" creationid="eugeneai" creationdate="20161212T042626Z">
+        <seg>(всего опубл 217 статей)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, these ideas are rather vague and leave room for different approaches.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T052658Z" creationid="eugeneai" creationdate="20161212T052658Z">
+        <seg>Однако эти идеи в своей постановке определяются неоднозначно, что оставляет пространство для варьирования реализаций методов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, time limitations prevented us from broadening the scope of the initially planned survey.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043601Z" creationid="eugeneai" creationdate="20161212T043601Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If an entry in the bibliography pointed to a relevant article not yet downloaded, we downloaded that article.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043124Z" creationid="eugeneai" creationdate="20161212T043124Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If one of the citing articles seemed relevant, we also downloaded it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043145Z" creationid="eugeneai" creationdate="20161212T043145Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Illustration of recommendation system terminology and concepts</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T044022Z" creationid="eugeneai" creationdate="20161212T044022Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implicit ratings were inferred from the number of pages the users read, users’ interaction with the papers (e.g., downloads, edits, views) and citations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T065610Z" creationid="eugeneai" creationdate="20161212T065610Z">
+        <seg>Неявные рейтинги получены из данных по количеству страниц, прочитанных пользователем, взаимодействию пользователей с документами (например, загрузки, редактирования, представления) и цитирования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In January 2014, we conducted a second literature search and found 29 additional articles of relevance [189–217].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043550Z" creationid="eugeneai" creationdate="20161212T043550Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to simple terms, n-grams, topics, and citations were utilized to model users’ information needs.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T040009Z" creationid="eugeneai" creationdate="20161212T040009Z">
+        <seg>---In addition to simple terms, n-grams, topics, and citations were utilized to model users’ information needs.---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, most approaches (81 %) neglected the user-modeling process and did not infer information automatically but let users provide keywords, text snippets, or a single paper as input.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T041449Z" creationid="eugeneai" creationdate="20161212T041449Z">
+        <seg>Например, опыт использования РС, предоставляющих доступ к научным статьям, показал, что в 81% случаев моделирования пользователя на основе автоматического сбора информации не приносит хороших результатов в отличие от явного указания пользователем ключевых слов, текстовых сообщений и т.п.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, most likely, more than 40 papers were published in 2013 since we conducted the literature search in January 2014.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T042536Z" creationid="eugeneai" creationdate="20161212T042536Z">
+        <seg>В 2013 году опубликовано 40 статей на тему РС.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, recommender systems feature several other components, such as a user interface, a corpus of recommendation candidates, and an operator that owns/runs the system.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T054153Z" creationid="eugeneai" creationdate="20161212T054153Z">
+        <seg>Кроме того, рекомендательные системы характеризуются по наличию других компонент: пользовательский интерфейс, корпус примеров рекомендаций, владелец системы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, we checked on Google Scholar which articles cited the relevant article.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043128Z" creationid="eugeneai" creationdate="20161212T043128Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In an initial review, we focused on the evaluation of the approaches.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043356Z" creationid="eugeneai" creationdate="20161212T043356Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In contrast, the idea of CF is that users like items that the users’ peers liked.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T052517Z" creationid="eugeneai" creationdate="20161212T052517Z">
+        <seg>BF заключается в том, что людям нравятся предметы, которые понравилось людям с такими же харатеристиками [профиля].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the 16 years from 1998 to 2013, more than 200 research articles were published in the field of research-paper recommender systems.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T055758Z" creationid="eugeneai" creationdate="20161212T055758Z">
+        <seg>В 16 лет с 1998 по 2013 год, более 200 научных статей, опубликованных в [области поиска научных статей].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the last 16 years, more than 200 research articles were published about research-paper recommender systems.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T034755Z" creationid="eugeneai" creationdate="20161212T034755Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the remaining paper, we present definitions (Sect.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043611Z" creationid="eugeneai" creationdate="20161212T043611Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Information on runtime was provided for 10 % of the approaches.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T041544Z" creationid="eugeneai" creationdate="20161212T041544Z">
+        <seg>Информацию о (runtime) представлено в 10 % из подходов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead, the paper used the Movielens dataset, which contains ratings of movies.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043547Z" creationid="eugeneai" creationdate="20161212T043547Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It fully details how recommendations are generated and leaves no room for speculation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T053910Z" creationid="eugeneai" creationdate="20161212T053910Z">
+        <seg>Реализация полностью представляет все детали порождения оценки, что исключает всякие сомнения о конечном способе формирования рекомендаций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is, therefore, the most specific idea about how recommendations might be generated.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T053920Z" creationid="eugeneai" creationdate="20161212T053920Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Joeran Beel</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T034654Z" creationid="eugeneai" creationdate="20161212T034654Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Joeran BeelEmail authorBela GippStefan LangerCorinna Breitinger</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T034652Z" creationid="eugeneai" creationdate="20161212T034652Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keywords
+Recommender systemUser modelingResearch paper recommender systemsContent based filteringReviewSurvey
+1 Introduction
+In 1998, Giles et al.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T042106Z" creationid="eugeneai" creationdate="20161212T042106Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lao et al.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T071539Z" creationid="eugeneai" creationdate="20161212T071539Z">
+        <seg>Лао и др. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of reviewed articles by year</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T042629Z" creationid="eugeneai" creationdate="20161212T042629Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More details about research paper recommender system evaluation methods follow in Sect.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T055132Z" creationid="eugeneai" creationdate="20161212T055132Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More than one-third (36 %) had 10 or more pages (Fig. 2).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043253Z" creationid="eugeneai" creationdate="20161212T043253Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nevertheless, these approaches to represent a concept are still vague and leave room for speculation on how recommendations are calculated.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T053109Z" creationid="eugeneai" creationdate="20161212T053109Z">
+        <seg>Методики вычисления интереса в них варьируются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Numbers are based on our literature search.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T042433Z" creationid="eugeneai" creationdate="20161212T042433Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Of course, users require recommendations specific to their fields of research [117].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T054836Z" creationid="eugeneai" creationdate="20161212T054836Z">
+        <seg>При этом оба типа пользователей нуждаются в рекомендациях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Of the 96 research-paper recommendation approaches presented in 185 articles, 62 approaches were chosen for an in-depth analysis, presented in 127 articles [1–127].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043503Z" creationid="eugeneai" creationdate="20161212T043503Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One example of an article outside of the research scope was ‘Research Paper Recommender Systems—A Subspace Clustering Approach’ [130].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043532Z" creationid="eugeneai" creationdate="20161212T043532Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only eleven approaches applied collaborative filtering, and none of them successfully used explicit ratings.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T065245Z" creationid="eugeneai" creationdate="20161212T065245Z">
+        <seg>Только в одиннадцати РС применяется коллаборативная фильтрация, и ни в одном из них не удалось успешно использовать явные рейтинги.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other approaches modeled their users as graphs, as lists with topics that were assigned through machine learning, or as ACM classification hierarchies.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T064930Z" creationid="eugeneai" creationdate="20161212T064930Z">
+        <seg>Другие подходы моделируют своих пользователей при помощи графов и списков тем, назначенных им в результате машинного обучения, или в виде иерархий на основе классификаторов АСМ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other recommendation concepts included stereotyping, item-centric recommendations, and hybrid recommendations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T035515Z" creationid="eugeneai" creationdate="20161212T035515Z">
+        <seg>Другие подходы к построению рекомендаций включают стереотипирование, гибридные методы и др.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Our relevance judgment made use of the title and the abstract if the title alone did not indicate a recognizable relevance to research-paper recommender systems.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043109Z" creationid="eugeneai" creationdate="20161212T043109Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Our review revealed some shortcomings of the current research.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T040015Z" creationid="eugeneai" creationdate="20161212T040015Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overall, the reviewed articles were comprehensive, with a median page count of eight.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043243Z" creationid="eugeneai" creationdate="20161212T043243Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page count of reviewed articles
+Citation counts follow a typical power–law distribution: a few articles gained many citations (the maximum was 528 citations for [43]) and many articles had few citations, see Fig. 3.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043301Z" creationid="eugeneai" creationdate="20161212T043301Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Percentage of different article types reviewed
+https://static-content.springer.com/image/art%3A10.1007%2Fs00799-015-0156-0/MediaObjects/799_2015_156_Fig2_HTML.gif
+Fig. 2</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043258Z" creationid="eugeneai" creationdate="20161212T043258Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pohl et al.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T071044Z" creationid="eugeneai" creationdate="20161212T071044Z">
+        <seg>Пол и др</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Research-paper recommender systems: a literature survey</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T051038Z" creationid="eugeneai" creationdate="20161212T034619Z">
+        <seg>Исследование рекомендательных систем: обзор литературы (http://docear.org/papers/Research%20Paper%20Recommender%20Systems%20--%20A%20Literature%20Survey%20(preprint).pdf)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since then, at least 216 articles relating to 120 research-paper recommendation approaches were published [2–217].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T042258Z" creationid="eugeneai" creationdate="20161212T042258Z">
+        <seg>(216 статей с тех пор)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Six of the reviewed approaches were co-occurrence based.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T070612Z" creationid="eugeneai" creationdate="20161212T070612Z">
+        <seg>Шесть из рассмотренных подходов основывались на анализе совместного появления (сочетаемости, co-occurrence).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some graphs included authors, users/customers, venues, genes and proteins, and publishing years of the papers.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T071530Z" creationid="eugeneai" creationdate="20161212T071530Z">
+        <seg>Некоторые графы включают авторов, пользователей/клиентов, [площадки venues], гены и белки, и годы публикации документов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some recommender systems also use two or more recommendation approaches: CiteULike, a service for discovering and managing scholarly references, lets their users choose between two approaches [14, 17], and Docear randomly selects one of three approaches each time users request recommendations [7].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T054257Z" creationid="eugeneai" creationdate="20161212T054257Z">
+        <seg>(в статье рассмотрены также системы, реализующие несколько подходов одновременно.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some researchers have reservations about using Google Scholar as source for citation counts [218–220], but the numbers can give a rough idea of a paper’s popularity.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043340Z" creationid="eugeneai" creationdate="20161212T043340Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some used n-grams, or topics based on LDA.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T060219Z" creationid="eugeneai" creationdate="20161212T060219Z">
+        <seg>Некоторые использовуют N-граммы, или темы на основе LDA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes content-based filtering performed better than collaborative filtering and sometimes it performed worse.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T040306Z" creationid="eugeneai" creationdate="20161212T040252Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stefan Langer</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T034658Z" creationid="eugeneai" creationdate="20161212T034658Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Such graphs typically included papers that were connected via citations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T071403Z" creationid="eugeneai" creationdate="20161212T071403Z">
+        <seg>Эти графы обычно включают документы, для которых обнаружены общие цитаты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TF-IDF was the most frequently applied weighting scheme.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T035923Z" creationid="eugeneai" creationdate="20161212T035923Z">
+        <seg>Наиболее часто применяемая здесь схема взвешивания - TF-IDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 2</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043256Z" creationid="eugeneai" creationdate="20161212T043256Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ten recommendation approaches built graphs to generate recommendations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T071314Z" creationid="eugeneai" creationdate="20161212T071314Z">
+        <seg>Десять подходов к РС строили графы для создания рекомендаций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The amount of literature and approaches represents a problem for new researchers: they do not know which of the articles are most relevant, and which recommendation approaches are most promising.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T042320Z" creationid="eugeneai" creationdate="20161212T042320Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The articles consisted primarily of peer-reviewed conference papers (59 %), journal articles (16 %), pre-prints (5 %), and other documents such as presentations and web pages (15 %).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T055847Z" creationid="eugeneai" creationdate="20161212T055847Z">
+        <seg>Статьи состояли в основном из рецензируемых трудах конференций (59 %), журнальные статьи (16 %), препринтов (5 %) и других документов, таких как презентации и веб-страниц (15 %).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The authors reported reasonable performance of the stereotype approach with click-through rates (CTR) around 4 % while the CBF approach achieves CTRs around 6 %.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T070217Z" creationid="eugeneai" creationdate="20161212T070217Z">
+        <seg>Авторы получили приемлемые показатели для этого подхода через коэффициент кликабельности (CTR) (около 4%), в то время как подход CBF достигал примерно 6 %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The content-based filtering approaches mainly utilized papers that the users had authored, tagged, browsed, or downloaded.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T035721Z" creationid="eugeneai" creationdate="20161212T035721Z">
+        <seg>Контент-фильтрация в основном использует информацию о торм, какие товары и услуги заказывают потребители.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The few existing literature surveys in the field [186–188] cover just a fraction of the articles, or focus on selected aspects, such as recommender-system evaluation [190].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T042357Z" creationid="eugeneai" creationdate="20161212T042357Z">
+        <seg>(В статьях 186-188 - литобзоры)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The few existing literature surveys in this field cover only a fraction of these articles, which is why we conducted a comprehensive survey of research-paper recommender systems.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T055941Z" creationid="eugeneai" creationdate="20161212T055934Z">
+        <seg>Существующие обзоры литературы в этой области охватывают лишь малую часть этих статей, поэтому мы провели комплексное обследование таких систем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The goal of this search was to identify the overall number of articles published in 2013; see Fig. 1.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043557Z" creationid="eugeneai" creationdate="20161212T043557Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The higher the proximity of two references within a paper, the more related they are assumed to be.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T071035Z" creationid="eugeneai" creationdate="20161212T071035Z">
+        <seg>Предположено, что чем выше близость двух ссылок в статье, тем более релевантными они являются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The main problem of collaborative filtering for research papers seems to be scarcity.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T065725Z" creationid="eugeneai" creationdate="20161212T065725Z">
+        <seg>Главная проблема совместной фильтрации для научных работ, кажется, дефицит информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The mean citation count was 30, and median was seven.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043307Z" creationid="eugeneai" creationdate="20161212T043307Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The most popular model to store item representations was the Vector Space Model.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T060244Z" creationid="eugeneai" creationdate="20161212T060244Z">
+        <seg>Самая популярная модель для хранения представления элемента - модель векторного пространства.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The needs of users vary.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T054639Z" creationid="eugeneai" creationdate="20161212T054639Z">
+        <seg>Потребности пользователей меняются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The objective of a recommender system from a broad perspective is to provide “good” [224] and “useful” [225] recommendations that make users “happy” [226] by satisfying user needs [87].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T054630Z" creationid="eugeneai" creationdate="20161212T054630Z">
+        <seg>Цель РС в широком смысле - это обеспечить “хорошие” [224] и “полезные” [225] рекомендации, которые делают пользователи “счастливым” [226] путем удовлетворения его потребностей [87].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The remaining 185 articles consist of peer-reviewed conference articles (59 %), journal articles (16 %), pre-prints (5 %), and other formats such as Ph.D.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043232Z" creationid="eugeneai" creationdate="20161212T043232Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The review included an analysis of which evaluation methods were applied (e.g., user-studies or offline evaluations), which evaluation metrics were used (e.g., precision or recall), how many participants the user studies had, and how strongly datasets were pruned.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043458Z" creationid="eugeneai" creationdate="20161212T043458Z">
+        <seg>(интересует измерения качества результатам)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The review revealed the following information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T060002Z" creationid="eugeneai" creationdate="20161212T060002Z">
+        <seg>В ходе обзора выявлена следующая информация.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The reviewed approaches extracted text from the title, abstract, header, introduction, foreword, author-provided keywords, bibliography, body text, social tags, and citation context.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T065149Z" creationid="eugeneai" creationdate="20161212T065149Z">
+        <seg>В рассмотренных подходах тексты извлекаются из заглавий, аннотаций, заголовков, введения, предисловия, предоставленных автором ключевых слов, библиографии, основного текста, социальных тегов и цитирований контекста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The title appears relevant for this survey, but the article presents a collaborative filtering approach that is not intended for recommender systems for research papers.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043541Z" creationid="eugeneai" creationdate="20161212T043541Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The “recommendation scenario” describes the entire setting of a recommender system, including the recommender system and the recommendation environment, i.e., the domain and user characteristics.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T054436Z" creationid="eugeneai" creationdate="20161212T054436Z">
+        <seg>“Сценарий построения рекомендации” описывает всю настройку РС, в том числе ИС и ее окружение, т.е. предметную область продукта или услуги, а также характеристики пользователя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, our review concentrates on the two subsets of the 217 articles: the 185 articles identified during the first round of the literature search, and the 127 articles that we chose for an in-depth review.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043605Z" creationid="eugeneai" creationdate="20161212T043605Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These approaches are quite different, but are each consistent with the central idea of CF.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T053009Z" creationid="eugeneai" creationdate="20161212T053009Z">
+        <seg>Эти подходы совершенно разные, но каждый соответствует классу CF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These major academic services include the academic search engines CiteSeer(x),2Google Scholar (Scholar Update),3 and PubMed;4 the social network ResearchGate;5 and the reference managers CiteULike,6Docear,7 and Mendeley.8 While these systems offer recommender systems along with their main services, there are also a few stand-alone recommender systems, namely BibTip,9bX,10RefSeer,11TheAdvisor12 and an experimental system called Sarkanto.13
+The first literature search was conducted in June 2013 and found 188 relevant articles [1–188].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043202Z" creationid="eugeneai" creationdate="20161212T043202Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They were based on strongly pruned datasets, few participants in user studies, or did not use appropriate baselines.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T040452Z" creationid="eugeneai" creationdate="20161212T040452Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This means that for a particular recommendation approach there might be several algorithms.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T053712Z" creationid="eugeneai" creationdate="20161212T053712Z">
+        <seg>Это означает, что для каждой практической реализации существует несколько алгоритмов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Three approaches analyzed how often papers were co-viewed during a browsing session: whenever users browsed a paper, the system recommended those papers that had frequently been co-viewed with the browsed paper in the past.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T070845Z" creationid="eugeneai" creationdate="20161212T070845Z">
+        <seg>В трех подходах анализировалось частота совместного просмотра документа во течение сеанса [просмотра]: в процессе просмотра пользователем статьи, система рекомендует к просмотру документы, которые часто совместно просматривались в прошлом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Three of the 188 articles were literature surveys [186–188], which were ignored in our survey.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043216Z" creationid="eugeneai" creationdate="20161212T043216Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus, they do not provide an overview of the research field, or identify the most promising approaches.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T042407Z" creationid="eugeneai" creationdate="20161212T042407Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To differentiate how specific the idea is, we distinguish between recommendation classes, approaches, algorithms, and implementations (Fig. 4).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T044017Z" creationid="eugeneai" creationdate="20161212T044017Z">
+        <seg>Каждый конкретный экземпляр (идея) РС классифицируется по [классам рекомендаций], подходам, алгоритмам и [реализациям] (Рис. 4). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To identify relevant literature for our survey, we conducted a literature search on Google Scholar, ACM Digital Library,Springer Link, and ScienceDirect.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043049Z" creationid="eugeneai" creationdate="20161212T043049Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vellino compared implicit ratings on Mendeley (research papers) and Netflix (movies), and found that scarcity on Mendeley differs from Netflix by a magnitude of three.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T065857Z" creationid="eugeneai" creationdate="20161212T065857Z">
+        <seg>Vellino сравнил неявные оценоки на Mendeley (научные статьи) и Netflix (фильмы), и обнаружил, что дефицит на Mendeley отличается от Netflix в [3 раза, в степени 3 ии ж 1000 раз].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We also excluded articles that could not be clearly interpreted due to grammar and language use, or when they were outside of the scope (even if the article’s title suggested relevance to research-paper recommender systems).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043525Z" creationid="eugeneai" creationdate="20161212T043525Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We also identified a lack of authority and long-term research interest in the field: 73 % of the authors published no more than one paper on research-paper recommender systems, and there was little cooperation among different co-author groups.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T041937Z" creationid="eugeneai" creationdate="20161212T041937Z">
+        <seg>Выявлен факт того, что в долгосрочной перспективе научный интерес в этой области не представлен: 73 % авторов написали только одну статью на тему  рекомендательных систем, кроме того, сотрудничества между различными исследовательскими группами не наблюдается.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We chose these 62 approaches, because we classified the remaining 34 approaches, i.e., 58 articles, as not sufficiently related to ‘research-paper recommender systems’ [128–185].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043506Z" creationid="eugeneai" creationdate="20161212T043506Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We classified articles as insufficiently related if they provided no evaluation, or if their approach did not differ significantly from that of previous authors.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043513Z" creationid="eugeneai" creationdate="20161212T043513Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We concluded that several actions could improve the research landscape: developing a common evaluation framework, agreement on the information to include in research papers, a stronger focus on non-accuracy aspects and user modeling, a platform for researchers to exchange information, and an open-source framework that bundles the available recommendation approaches.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T042101Z" creationid="eugeneai" creationdate="20161212T042101Z">
+        <seg>Предложено создать общую открытую программную платформу для ведения исследований в этой области.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We define a “recommendation class” as the least specific idea, namely a broad concept that broadly describes how recommendations might be given.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T051930Z" creationid="eugeneai" creationdate="20161212T051930Z">
+        <seg>Класс рекомендации - это фундаментальная основа некоторого подхода, которая в целом описывает метод вычисления рекомендации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We examined the bibliography of each article.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043116Z" creationid="eugeneai" creationdate="20161212T043116Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We expanded our search to websites, blogs, patents, and presentations on major academic recommender systems.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043151Z" creationid="eugeneai" creationdate="20161212T043151Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We found that more than half of the recommendation approaches applied content-based filtering (55 %).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T035043Z" creationid="eugeneai" creationdate="20161212T035043Z">
+        <seg>Больше половины подходов относятся к фильтрации содержания (55 %) [ссылка на статью-обзор].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We identified three potential reasons for the ambiguity of the results.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T040528Z" creationid="eugeneai" creationdate="20161212T040335Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We reviewed the 185 articles, which contained information on 96 research-paper recommendation approaches [1–185].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043347Z" creationid="eugeneai" creationdate="20161212T043347Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We reviewed these articles and present some descriptive statistics in this paper, as well as a discussion about the major advancements and shortcomings and an overview of the most common recommendation concepts and approaches.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T034919Z" creationid="eugeneai" creationdate="20161212T034919Z">
+        <seg>Рассматриваются популярные подходы к разработке рекомендательных информационных систем, их достоиства и недостатки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We searched for [paper | article | citation] [recommender | recommendation] [system | systems] and downloaded all articles that had relevance for research-paper recommender systems.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043057Z" creationid="eugeneai" creationdate="20161212T043057Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We survey the field of research-paper recommender systems with the goal of enabling researchers and developers to (a) learn about the status-quo of research-paper recommender systems, (b) identify promising fields of research, and (c) motivate the community to solve the most urgent problems that currently hinder the effective use of research-paper recommender systems in practice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T042952Z" creationid="eugeneai" creationdate="20161212T042952Z">
+        <seg>Цель статьи - показать исследователям и разработчикам (а) современное состояние предметной области, (б) выявить перспективные направления исследований (C) указать первоочередные задачи, требующие решения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We then present the survey of the 96 approaches’ evaluations (Sect.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043614Z" creationid="eugeneai" creationdate="20161212T043614Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We use the terms “performance” and “effectiveness” interchangeably.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T054958Z" creationid="eugeneai" creationdate="20161212T054958Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When we use the term “effectiveness,” we refer to the specific objective the evaluator wanted to measure.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T054952Z" creationid="eugeneai" creationdate="20161212T054952Z">
+        <seg>Всякий раз как упоминается "эффективность" будет указываться по отношению к какой цели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yang et al.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T065254Z" creationid="eugeneai" creationdate="20161212T065254Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>compared the effectiveness of co-citations and co-downloads and found that co-downloads are more effective than co-citations only in the first 2 years after a paper was published [110].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T071236Z" creationid="eugeneai" creationdate="20161212T071236Z">
+        <seg>сравнили эффективность со-цитирования и со-загрузку. Оказалось, что совместные загрузки показывают большую эффективность, чем со-цитирование только в первые два года со дня опубликования статьи [110].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>even included terms from the papers’ titles in the graph.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T071611Z" creationid="eugeneai" creationdate="20161212T071611Z">
+        <seg>даже включили термины из заголовков статей в этот граф.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>https://static-content.springer.com/image/art%3A10.1007%2Fs00799-015-0156-0/MediaObjects/799_2015_156_Fig1_HTML.gif
+Fig. 1</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T042418Z" creationid="eugeneai" creationdate="20161212T042418Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>https://static-content.springer.com/image/art%3A10.1007%2Fs00799-015-0156-0/MediaObjects/799_2015_156_Fig3_HTML.gif
+Fig. 3</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043341Z" creationid="eugeneai" creationdate="20161212T043341Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>https://static-content.springer.com/image/art%3A10.1007%2Fs00799-015-0156-0/MediaObjects/799_2015_156_Fig4_HTML.gif
+Fig. 4</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T044019Z" creationid="eugeneai" creationdate="20161212T044019Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>intended to develop such a system, but their users were “too lazy to provide ratings” [124].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T065409Z" creationid="eugeneai" creationdate="20161212T065409Z">
+        <seg>Юнг и др. попытались разработать такую систему, но пользователи были слишком ленивы, чтобы самостоятельно задавать рейтинг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>introduced the first research-paper recommender system as part of the CiteSeer project [1].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T042224Z" creationid="eugeneai" creationdate="20161212T042224Z">
+        <seg>Впервые рекомендательные системы были представлены в [1].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>theses, patents, presentations, and web pages (Table 2).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T043235Z" creationid="eugeneai" creationdate="20161212T043235Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Evaluation” describes any kind of assessment that measures the effectiveness or merit of a concrete idea or approach.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="eugeneai" changedate="20161212T055118Z" creationid="eugeneai" creationdate="20161212T055118Z">
+        <seg>“Оценивание” характеризует любой способ [оценки], который измеряет эффективность или достоинство конкретной идеи или подход.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
