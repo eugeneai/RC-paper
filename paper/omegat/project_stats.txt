@@ -1,14 +1,14 @@
-12/12/16 5:42 PM
+12/12/16 6:37 PM
 Project Statistics
 
                  	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
 Total:           	    2604	26762	                     154898	                       178260	     1	
-Remaining:       	    2420	23817	                     137806	                       158485	     1	
+Remaining:       	    2368	22919	                     132644	                       152468	     1	
 Unique:          	    2383	26067	                     151144	                       174048	     1	
-Unique Remaining:	    2209	23142	                     134103	                       154334	     1	
+Unique Remaining:	    2159	22253	                     128979	                       148362	     1	
 
 
 Individual File Statistics:
 
 File Name  	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
-rec-sys.txt	          2604	              2420	           2383	                     2209	      26762	          23817	       26067	                 23142	                           154898	                               137806	                            151144	                                      134103	                             178260	                                 158485	                              174048	                                        154334	
+rec-sys.txt	          2604	              2368	           2383	                     2159	      26762	          22919	       26067	                 22253	                           154898	                               132644	                            151144	                                      128979	                             178260	                                 152468	                              174048	                                        148362	
