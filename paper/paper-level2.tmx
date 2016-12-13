@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>(A)</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T101512Z" creationid="eugeneai" creationdate="20161212T101512Z">
+        <seg>(А)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>(A) Several evaluations had limitations.</seg>
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T040531Z" creationid="eugeneai" creationdate="20161212T040444Z">
         <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(B)</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T102356Z" creationid="eugeneai" creationdate="20161212T102356Z">
+        <seg>(Б)</seg>
       </tuv>
     </tu>
     <tu>
@@ -191,6 +207,22 @@ We use the term “idea” to refer to a hypothesis about how recommendations co
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Additionally, developers of several of the active recommender systems do not engage in the research community or publish information about their systems.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T102009Z" creationid="eugeneai" creationdate="20161212T102009Z">
+        <seg>Кроме того, разработчики нескольких активных РС не вовлекают научно-исследовательское сообщество и не публикуют информацию о своих системах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Additionally, many authors provided little information about their approaches, which hinders re-implementation.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T101049Z" creationid="eugeneai" creationdate="20161212T101049Z">
+        <seg>-- Кроме того, многие авторы представили немного информации об их подходов, что препятствует повторному осуществлению.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Algorithms are not necessarily complete.</seg>
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T053525Z" creationid="eugeneai" creationdate="20161212T053525Z">
@@ -211,6 +243,14 @@ We use the term “idea” to refer to a hypothesis about how recommendations co
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T042507Z" creationid="eugeneai" creationdate="20161212T042507Z">
         <seg>(эта статья-крутая, авторы знают все)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>An open-source recommender framework containing the most promising approaches could help transfer the research results into practice.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T103714Z" creationid="eugeneai" creationdate="20161212T103714Z">
+        <seg>Если б этот сервис был бы еще и с открытым исходным кодом, то внедрение современных результатов исследований в программные среды РС и практические приложения были б без проблем.</seg>
       </tuv>
     </tu>
     <tu>
@@ -251,6 +291,22 @@ We use the term “idea” to refer to a hypothesis about how recommendations co
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T041007Z" creationid="eugeneai" creationdate="20161212T041007Z">
         <seg>(Основной оценкой РС является "удовлетворенность пользоватля")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As long as the reasons for these variations are not found, scholars cannot rely on existing research results because it is not clear whether the results can be reproduced in a new recommendation scenario.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T101422Z" creationid="eugeneai" creationdate="20161212T101422Z">
+        <seg>-- Пока причин этих отклонений не нашли, ученые не могут полагаться на существующие результаты исследований, потому что это не ясно, будет ли результат может быть воспроизведена в новом сценарии и рекомендации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As such, the extensive research conducted from 1998 to 2013 apparently had a rather minor impact on research-paper recommender systems in the real world.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T101916Z" creationid="eugeneai" creationdate="20161212T101916Z">
+        <seg>В результате обширные исследования, проведенные с 1998 по 2013 год, видимо, имеют весьма незначительное влияние на реально действующие РС поиска научных статей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -311,6 +367,14 @@ We use the term “idea” to refer to a hypothesis about how recommendations co
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Complexity was covered by very few authors and the costs of running a recommender system were reported by a single article.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T102720Z" creationid="eugeneai" creationdate="20161212T102720Z">
+        <seg>Сложность оценена лишь несколькими авторами, а затраты на сопровождение РС показаны только в одной статье.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Consequently, researchers use different implementations of the same recommendations approaches, which might lead to variations in the results.</seg>
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T040825Z" creationid="eugeneai" creationdate="20161212T040759Z">
@@ -343,10 +407,50 @@ We use the term “idea” to refer to a hypothesis about how recommendations co
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Depending on the entities in the graph, connections were citations, purchases, “published in” relations, authorship, relatedness between genes, and occurrences of genes in papers.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T094738Z" creationid="eugeneai" creationdate="20161212T094738Z">
+        <seg>В зависимости от объектов, сохраненных в графе, дуги отражали цитирование,  конкретные покупки, отношения "опубликовано в", авторство, релевантность  генов друг к другу, и упоминание генов в статьях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Despite a lot of research about research-paper recommender systems, we identified two main problems in the research field.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T095435Z" creationid="eugeneai" creationdate="20161212T095435Z">
+        <seg>Несмотря на полученные результаты в области разработки РС, нашли две основные проблемы в сфере построения рекомендаций научных статей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Despite the large number of research articles, just a handful of active recommender systems exist, and most of them apply simple recommendation approaches that are not based on recent research results.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T101738Z" creationid="eugeneai" creationdate="20161212T101738Z">
+        <seg>Несмотря на большое количество научных статей, всего несколько работоспособных РС реально существуют, и большинство из них реализуют простые [подходы рекомендации], которые не включают последние результаты исследований.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Even if this criticism is unjustified, some problems remain.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T100357Z" creationid="eugeneai" creationdate="20161212T100357Z">
+        <seg>Даже если эта критика является необоснованной, некоторые проблемы остаются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Even researchers familiar with research-paper recommender systems would find it difficult to keep track of the current developments, since the yearly number of articles steadily increases: 66 of the 217 articles (30 %) were published just in 2012 and 2013 alone (Fig. 1; Table 1).</seg>
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T042330Z" creationid="eugeneai" creationdate="20161212T042330Z">
         <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Few approaches automatically inferred information needs from the users’ authored, tagged, or otherwise connected papers.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T103307Z" creationid="eugeneai" creationdate="20161212T103307Z">
+        <seg>В нескольких подходах такая информация выводилась автоматически из списка статей, аннотированных или тегированных пользователем.</seg>
       </tuv>
     </tu>
     <tu>
@@ -375,6 +479,14 @@ We use the term “idea” to refer to a hypothesis about how recommendations co
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>First, it is currently not possible to determine the most effective recommendation approaches.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T095504Z" creationid="eugeneai" creationdate="20161212T095504Z">
+        <seg>Во-первых, в настоящее время невозможно определить наиболее эффективные [подходы рекомендации].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>First, it remains unclear which recommendation concepts and approaches are the most promising.</seg>
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T040109Z" creationid="eugeneai" creationdate="20161212T040109Z">
@@ -391,10 +503,34 @@ We use the term “idea” to refer to a hypothesis about how recommendations co
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>For instance, Huang et al.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T094920Z" creationid="eugeneai" creationdate="20161212T094920Z">
+        <seg>Например, Хуан и соавт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For instance, Pennock et al.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T100506Z" creationid="eugeneai" creationdate="20161212T100506Z">
+        <seg>Например, Пеннок и соавт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>For instance, an algorithm of a CBF approach would specify whether terms were extracted from the title of a document or from the body of the text, and how terms are processed (e.g., stop-word removal or stemming) and weighted (e.g., TF-IDF).</seg>
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T053512Z" creationid="eugeneai" creationdate="20161212T053512Z">
         <seg>Например, алгоритм CBF должен указать, следует ли извлекать ключевые последовательности слов из названия документа или текста, и каким образом следует обрабатывать эти последовательности (например, удалять ли стоп-слова, вычислять ли корни слов), и как проводить взвешивание (например, использовать ли алгоритм TF-IDF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For instance, most authors did not report on the text fields they utilized, or which weighting schemes were used.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T101105Z" creationid="eugeneai" creationdate="20161212T101105Z">
+        <seg>--Например, большинство авторов не доклад на текстовые поля, они использовались, или использовались схемы взвешивания.</seg>
       </tuv>
     </tu>
     <tu>
@@ -512,6 +648,14 @@ Table 1</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Ideally, a set of reference approaches would be implemented that could be used as baselines.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T101227Z" creationid="eugeneai" creationdate="20161212T101227Z">
+        <seg>В идеале, надо реализовать набор эталонных подходов, которые могут быть использованы как базовые в процессе оценивания.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If an entry in the bibliography pointed to a relevant article not yet downloaded, we downloaded that article.</seg>
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T043124Z" creationid="eugeneai" creationdate="20161212T043124Z">
@@ -524,6 +668,22 @@ Table 1</seg>
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T043145Z" creationid="eugeneai" creationdate="20161212T043145Z">
         <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If that is true, most of the reviewed evaluations would be of little significance.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T100347Z" creationid="eugeneai" creationdate="20161212T100347Z">
+        <seg>Если это правда, то большинство рассмотренных оценок являются малозначащими.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If we were asked which recommendation approach to apply in practice or to use as baseline, there is no definite answer.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T095701Z" creationid="eugeneai" creationdate="20161212T095701Z">
+        <seg>На вопрос о рекомендованном подходе к применению на практике в качестве базового в конкретной прикладной задаче нет однозначного ответа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -560,6 +720,14 @@ Table 1</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>In addition, more details on implementations are needed, based on a discussion of the information needed in research articles.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T101342Z" creationid="eugeneai" creationdate="20161212T101342Z">
+        <seg>---Кроме того, необходимо предоставлять более подробную информацию о реализации, причем заранее обсудить необходимой в научно-исследовательских статей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>In addition, most approaches (81 %) neglected the user-modeling process and did not infer information automatically but let users provide keywords, text snippets, or a single paper as input.</seg>
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T041449Z" creationid="eugeneai" creationdate="20161212T041449Z">
@@ -580,6 +748,22 @@ Table 1</seg>
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T054153Z" creationid="eugeneai" creationdate="20161212T054153Z">
         <seg>Кроме того, рекомендательные системы характеризуются по наличию других компонент: пользовательский интерфейс, корпус примеров рекомендаций, владелец системы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In addition, the major co-author groups in the domain of research-paper recommender systems do not cooperate much with each other.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T102246Z" creationid="eugeneai" creationdate="20161212T102246Z">
+        <seg>Авторы статей не формируют исследовательские группы для объединения исследований и не взаимодействуют друг с другом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In addition, the majority of the user studies (58 %) had 15 or less participants, which questions the significance of these evaluations.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T100908Z" creationid="eugeneai" creationdate="20161212T100908Z">
+        <seg>Кроме того, большинство исследований моделей пользователей (58 %) проводились на 15 или менее участников, а это ставит достоверность результатов под сомнение.</seg>
       </tuv>
     </tu>
     <tu>
@@ -632,6 +816,14 @@ Table 1</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Information about runtime was provided for 10 % of the approaches.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T102605Z" creationid="eugeneai" creationdate="20161212T102605Z">
+        <seg>Информацию о среде исполнения (runtime) представлена лишь в 10 % из подходов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Information on runtime was provided for 10 % of the approaches.</seg>
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T041544Z" creationid="eugeneai" creationdate="20161212T041544Z">
@@ -652,6 +844,14 @@ Table 1</seg>
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T053910Z" creationid="eugeneai" creationdate="20161212T053910Z">
         <seg>Реализация полностью представляет все детали порождения оценки, что исключает всякие сомнения о конечном способе формирования рекомендаций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It is crucial to find out why seemingly minor differences in algorithms or evaluations lead to major variations in the evaluation results.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T101403Z" creationid="eugeneai" creationdate="20161212T101403Z">
+        <seg>Важно выяснить, почему, казалось бы, незначительные различия в алгоритмах или оценки приводят к большому разбросу в результатах оценки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -707,6 +907,14 @@ In 1998, Giles et al.</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Many authors pruned their offline datasets in drastic ways.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T100453Z" creationid="eugeneai" creationdate="20161212T100453Z">
+        <seg>Многие авторы слишком сильно фильтруют их тестовые наборы данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>More details about research paper recommender system evaluation methods follow in Sect.</seg>
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T055132Z" creationid="eugeneai" creationdate="20161212T055132Z">
@@ -719,6 +927,14 @@ In 1998, Giles et al.</seg>
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T043253Z" creationid="eugeneai" creationdate="20161212T043253Z">
         <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Most authors (73 %) published only a single paper on research-paper recommender systems.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T102353Z" creationid="eugeneai" creationdate="20161212T102353Z">
+        <seg>Большинство авторов (73 %) опубликовали всего лишь одну статью.</seg>
       </tuv>
     </tu>
     <tu>
@@ -755,10 +971,42 @@ In 1998, Giles et al.</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Of the remaining approaches, 20 % were not evaluated against a baseline; the majority of the remaining approaches were compared to simple baselines but not to approaches of other researchers in the field.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T100054Z" creationid="eugeneai" creationdate="20161212T100054Z">
+        <seg>Из оставшихся подходов, 20 % не были оценены по отношению к базовому; большинство из оставшихся подходов сравнивались с простыми базовыми, но не с подобными подходами других исследователей в этой области.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>One example of an article outside of the research scope was ‘Research Paper Recommender Systems—A Subspace Clustering Approach’ [130].</seg>
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T043532Z" creationid="eugeneai" creationdate="20161212T043532Z">
         <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One reason for some of these problems might be a relatively short-lived interest in the research field.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T102314Z" creationid="eugeneai" creationdate="20161212T102314Z">
+        <seg>Одной из причин этих проблем - это относительно невысокий интерес к РС в научно-исследовательской сфере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One step towards using the full potential of research-paper recommender systems could be to establish a platform for researchers to collaborate, work on joint publications, communicate ideas, or to establish conferences or workshops focusing solely on research-paper recommender systems.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T103527Z" creationid="eugeneai" creationdate="20161212T103527Z">
+        <seg>Было б замечательно, если б в области РС научных статей ученые взяли б и объединили свои усилия, построили общий базис и открытую среду для обмена мнениями, организовывали б при помощи этого сервиса конференции и подготавливали б совместные статьи. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Only 8 % of the approaches were evaluated with online evaluations in real-world recommender systems with real users.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T101016Z" creationid="eugeneai" creationdate="20161212T101016Z">
+        <seg>Только 8% из подходов оценивались с использованием онлайн оценок в реально работающих РС, полученных от реальных пользователей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -775,6 +1023,14 @@ In 1998, Giles et al.</seg>
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T064930Z" creationid="eugeneai" creationdate="20161212T064930Z">
         <seg>Другие подходы моделируют своих пользователей при помощи графов и списков тем, назначенных им в результате машинного обучения, или в виде иерархий на основе классификаторов АСМ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Other connections were based on attribute similarity, bibliographic coupling, co-citation strength, and demographic similarity.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T095220Z" creationid="eugeneai" creationdate="20161212T095220Z">
+        <seg>Другие дуги графа построены на основе сходства атрибутов, объединения на основе библиографического списка, совместного социтирования и сходства на основе демографических признаков.</seg>
       </tuv>
     </tu>
     <tu>
@@ -838,10 +1094,34 @@ Fig. 2</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Research results are often not transferred into practice, or considered by peers.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T101546Z" creationid="eugeneai" creationdate="20161212T101546Z">
+        <seg>Результаты исследований часто не переносятся в жизнь и не сравниваются с аналогами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Research-paper recommender systems: a literature survey</seg>
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T051038Z" creationid="eugeneai" creationdate="20161212T034619Z">
         <seg>Исследование рекомендательных систем: обзор литературы (http://docear.org/papers/Research%20Paper%20Recommender%20Systems%20--%20A%20Literature%20Survey%20(preprint).pdf)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Results based on such datasets do not allow drawing reliable conclusions about how the approaches might perform in real-world recommender systems.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T100746Z" creationid="eugeneai" creationdate="20161212T100746Z">
+        <seg>Результаты, основанные на таких данных не позволяют делать достоверные выводы о б эффективности того или иного подхода на реальных задачах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Second, we identified unused potential in recommender systems research.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T101505Z" creationid="eugeneai" creationdate="20161212T101505Z">
+        <seg>Во-вторых, мы определили неиспользованный потенциал научных исследований в области РС.</seg>
       </tuv>
     </tu>
     <tu>
@@ -862,6 +1142,22 @@ Fig. 2</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Some authors connected the entities based on non-inherent relations.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T094913Z" creationid="eugeneai" creationdate="20161212T094913Z">
+        <seg>Некоторые авторы связывали объекты на основе [ненаследованных отношений].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Some claim that offline evaluations should not be used for evaluating research-paper recommender systems [191].</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T100305Z" creationid="eugeneai" creationdate="20161212T100305Z">
+        <seg>Некоторые утверждают, что не-онлайн режим оценки не должны использоваться для оценки РС научных статей [191].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Some graphs included authors, users/customers, venues, genes and proteins, and publishing years of the papers.</seg>
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T071530Z" creationid="eugeneai" creationdate="20161212T071530Z">
@@ -874,6 +1170,14 @@ Fig. 2</seg>
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T054257Z" creationid="eugeneai" creationdate="20161212T054257Z">
         <seg>(в статье рассмотрены также системы, реализующие несколько подходов одновременно.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Some researchers also seem to be unaware of developments in related research domains, such as user modeling, scientometrics, and the reviewer-assignment problem.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T102123Z" creationid="eugeneai" creationdate="20161212T102123Z">
+        <seg>Некоторые исследователи также не знают результаты исследований в смежных областях, таких как моделирование пользователей, наукометрия, и о задачах назначения рецензентов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1022,6 +1326,22 @@ Fig. 2</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The majority (71 %) of approaches were evaluated using offline evaluations, which are subject to various shortcomings.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T100210Z" creationid="eugeneai" creationdate="20161212T100210Z">
+        <seg>Большинство (71 %) подходов оценивались при помощи не-online оценок, где выявлены различные недостатки такой оценки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The majority of authors did not take into account that user satisfaction might depend not only on accuracy but also on factors such as privacy, data security, diversity, serendipity, labeling, and presentation.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T102517Z" creationid="eugeneai" creationdate="20161212T102517Z">
+        <seg>Большинство авторов не учитывают, что удовлетворенность потребителя может зависеть не только от точности, но и от таких факторов, как конфиденциальность, безопасность данных, разнообразие, маркировки и презентации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The mean citation count was 30, and median was seven.</seg>
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T043307Z" creationid="eugeneai" creationdate="20161212T043307Z">
@@ -1102,6 +1422,14 @@ Fig. 2</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Therefore, 1575 papers remained from the original 270,000 (0.58 %).</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T100625Z" creationid="eugeneai" creationdate="20161212T100625Z">
+        <seg>Поэтому, 1575 статей сохранились от первоначальных 270,000 (0.58 %).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Therefore, our review concentrates on the two subsets of the 217 articles: the 185 articles identified during the first round of the literature search, and the 127 articles that we chose for an in-depth review.</seg>
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T043605Z" creationid="eugeneai" creationdate="20161212T043605Z">
@@ -1139,6 +1467,30 @@ The first literature search was conducted in June 2013 and found 188 relevant ar
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T053712Z" creationid="eugeneai" creationdate="20161212T053712Z">
         <seg>Это означает, что для каждой практической реализации существует несколько алгоритмов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This problem has two root causes.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T101510Z" creationid="eugeneai" creationdate="20161212T101510Z">
+        <seg>Эта проблема имеет две причины.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This problem mainly relates to poor experimental design and lack of information, which includes inadequate evaluations and too little information given by the authors: 22 % of the approaches were not evaluated.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T095945Z" creationid="eugeneai" creationdate="20161212T095945Z">
+        <seg>Эта проблема в основном относится к недостаточному дизайну РС как исследовательской системе, а также к недостатку информации, который включает в себя как неадекватные оценки, так и слишком малый объем информации, предоставленный авторами: 22 % из подходов не были оценены вообще.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This should include an analysis and discussion of how suitable offline evaluations are; to what extent datasets should be pruned; the creation of datasets comparable to existing TREC datasets; the minimum number of participants in user studies; and which factors influence the results of evaluations (e.g., user demographics).</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T101134Z" creationid="eugeneai" creationdate="20161212T101134Z">
+        <seg>-</seg>
       </tuv>
     </tu>
     <tu>
@@ -1183,6 +1535,14 @@ The first literature search was conducted in June 2013 and found 188 relevant ar
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>To solve this problem, we believe it is crucial that the community discusses and develops frameworks and best-practice guidelines for the evaluation of research-paper recommender-systems.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T101116Z" creationid="eugeneai" creationdate="20161212T101116Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Vellino compared implicit ratings on Mendeley (research papers) and Netflix (movies), and found that scarcity on Mendeley differs from Netflix by a magnitude of three.</seg>
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T065857Z" creationid="eugeneai" creationdate="20161212T065857Z">
@@ -1203,6 +1563,14 @@ The first literature search was conducted in June 2013 and found 188 relevant ar
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T041937Z" creationid="eugeneai" creationdate="20161212T041937Z">
         <seg>Выявлен факт того, что в долгосрочной перспективе научный интерес в этой области не представлен: 73 % авторов написали только одну статью на тему  рекомендательных систем, кроме того, сотрудничества между различными исследовательскими группами не наблюдается.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We also observed that many authors neglect the user-modeling process: 81 % of the approaches made their users provide some keyword, text snippets, or a single input paper to represent their information need.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T103045Z" creationid="eugeneai" creationdate="20161212T103045Z">
+        <seg>Мы также заметили, что многие авторы пренебрегают моделированием пользователей: в 81 % статей для описания потребности в информации в качестве модели пользователя [использовались] несколько ключевых слов, фрагмент текста или одна собственная статья, предоставленные пользователями по просьбе системы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1235,6 +1603,14 @@ The first literature search was conducted in June 2013 and found 188 relevant ar
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T051930Z" creationid="eugeneai" creationdate="20161212T051930Z">
         <seg>Класс рекомендации - это фундаментальная основа некоторого подхода, которая в целом описывает метод вычисления рекомендации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We do not even have a clue as to which of the approaches might be most promising.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T095729Z" creationid="eugeneai" creationdate="20161212T095708Z">
+        <seg>Мы даже не имеем понятия, какой из подходов окажется наиболее перспективным.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1335,6 +1711,22 @@ The first literature search was conducted in June 2013 and found 188 relevant ar
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>and Woodruff et al.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T094930Z" creationid="eugeneai" creationdate="20161212T094930Z">
+        <seg>и Вудрафф и соавт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>calculated text similarities between items and used the text similarity to connect papers in the graph.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T095041Z" creationid="eugeneai" creationdate="20161212T095041Z">
+        <seg>вычислили сходство текста между элементами и использовали его для объединения статей в граф.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>compared the effectiveness of co-citations and co-downloads and found that co-downloads are more effective than co-citations only in the first 2 years after a paper was published [110].</seg>
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T071236Z" creationid="eugeneai" creationdate="20161212T071236Z">
@@ -1390,6 +1782,14 @@ Fig. 4</seg>
       </tuv>
       <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T042224Z" creationid="eugeneai" creationdate="20161212T042224Z">
         <seg>Впервые рекомендательные системы были представлены в [1].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>removed all documents with fewer than 15 implicit ratings from the corpus.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU" changeid="eugeneai" changedate="20161212T100604Z" creationid="eugeneai" creationdate="20161212T100604Z">
+        <seg>исключили все документы из корпуса, имеющие неявную оценку меньше, чем 15.</seg>
       </tuv>
     </tu>
     <tu>
