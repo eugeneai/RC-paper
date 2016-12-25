@@ -4,3 +4,5 @@
 *.orig
 .*.pandoc
 /Matter/База по недвижимости*
+paper/omegat/last_entry.*
+paper/omegat/project_stats.*
