@@ -1,4 +1,3 @@
-
 % Рекомендательные информационные системы в ывфвыа
 
 # Введение
@@ -316,29 +315,19 @@ related questions were also analysed in this paper.
 SCOPUS http://journal.utem.edu.my/index.php/jtec/index
 
 [Alrawhani]
-The huge amount of data available on the Internet
-has lead to the development of online systems. This paper
-proposes a Real Estate Recommender System using Case-Based
-Reasoning Approach which can help customers to find a desired
-property. This proposed system uses a recommendation
-approach during search for property which assists the customers
-to find appropriate property and make decisions where they need
-the required knowledge to judge a particular property.
-Furthermore information available is very huge, so the
-recommender system assists the user to filter the available
-dataset according to user needs. Recommendation methods used
-for the search engine is Case-Based reasoning approach which
-can solve a new problem by retrieving the same problem that has
-been solved before and reuse the information that used to solve
-this new problem. Also system uses collaborative filtering
-approach which filters the properties based on other user rating
-for properties; the system will do recommendation based on the
-top rated properties. furthermore system will recommend the
-user based on the most visited properties, where the system will
-count the number of visit to the database, then based on the
-property with highest number of visit system will recommend
-appropriate property to users.
+В [Alrawhani] предложен проект системы управления недвижимым имуществом, где варианты
+объектов предлагаются на основе вывода на прецедентах (case-based reasoning).  Задача подсистемы вывода 
+найти прецедент в базе прецедентов, похожий на запрос пользователя.  Система помогает покупателям
+найти имущество, соответствующее их запросам.  При этом система выводит суждения о
+войствах объектов.  Полученная информация затем используется в процессе фильтрации
+содержания и коллаборативной фильтрации.  В дополнение к полученному списку выводится
+также наиболее популярные (most visited) варианты.
 
-Статья описывает идею, реализации не описывается.
-
-В системе пользователи разделены на продавцов и покупателей.  Продавцы "рекламируют" свое имущество, выставленное на продажу, выделяя те свойства недвижимости, которые сами считают важными.  Реализация оценки интереса для покупателя не выполняется, т.к. используется вывод на основе прецедентов.  Если вывод произвести не удалось, то используется коллаборативная фильтрация.  Возникает идея, что продавцы выступают в виде экспертов-оценщиков недвижимости, формируя информационную базу для фильтрации содержания.  Другая идея - ввод риэлтера в качестве пользователя, задающего и прецеденты и значения атрибутов объекта.
+Статья описывает только идею, реализация РС не приведена.  В системе пользователи разделены 
+на продавцов и покупателей.  Продавцы "рекламируют" свое имущество, выставленное на продажу, 
+выделяя те свойства недвижимости, которые сами считают важными.  
+Таким образом, в статье предложена идея того, как получать данные для фильтрации
+содержания в задаче разработки РС упраления имуществом: продавцы выступают в виде 
+экспертов-оценщиков недвижимости, формируя информационную базу для фильтрации 
+содержания.  Предложенную идею можно дополнить, если ввеститретий класс пользователей - 
+экспертов-риэлтеров и позволить им дополнять базу данных прецедентов новыми суждениями.
