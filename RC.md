@@ -260,10 +260,17 @@ Avhadeeva
 
 Решается задача анализа профиля пользователя в социальной сети ВКонтакте для решения проблемы холодного старта в решении задачи рекомендации жанров и произведений музыки и фильнов.
 
-[Ginevichius]
-The problem is how to define an efficient real estate management process when many various parties are involved because the alternative versions come to thousands and the efficiency changes with the alterations in the business environment conditions and the constituent parts of the process. Moreover, the realization of some objectives seems more rational from the economic perspective though from other perspectives (i.e.  technological, comfort, space, administrative, technical, etc.)  they have various significances. Therefore, it is considered that the efficiency of a real estate management process depends on the rationality of its stages as well as on the ability to satisfy the needs of the interested parties and the rational character of micro and macro"=level environment conditions.
 
-vation costs, the interest paid on loan).
+В [Ginevichius] решается сложная логистическая задача организация процесса управления 
+имуществом, в который вовлечены разнообразные группы людей в изменяющихся деловых и 
+экономических условиях.  В оценке учитываются не только экономические и бизнес-критерии, 
+но и такие критерии, как "технологичность", "комфорт", "пространство", "административные" 
+и "технические.  Основная цель исследования - разработать модель, в которой различные 
+группы будут максимально удовлетворены в "рациональной микро- и макро-среде".
+
+Эффективность использования имущества предлагается оценивать по целой системе критериев,
+включащей цену объекта, цену владения им, цену ремонта, возможности его использования 
+(capasity),  
 Effectiveness of equipment can be evaluated by the fol-
 lowing criteria system:
 –– Price;
