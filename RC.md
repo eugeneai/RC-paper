@@ -258,83 +258,29 @@ Avhadeeva
  система; система; **фильтрация содержимого**; социаль-
  ные сети; рекомендательный контент; веб-сёрфинг.
 
-Решается задача анализа профиля пользователя в социальной сети ВКонтакте для решения проблемы холодного старта в решении задачи рекомендации жанров и произведений музыки и фильнов.
+Решается задача анализа профиля пользователя в социальной сети ВКонтакте для решения проблемы холодного старта в решении задачи рекомендации жанров и произведений музыки и фильмов.
 
 
-В [Ginevichius] решается сложная логистическая задача организация процесса управления 
-имуществом, в который вовлечены разнообразные группы людей в изменяющихся деловых и 
-экономических условиях.  В оценке учитываются не только экономические и бизнес-критерии, 
-но и такие критерии, как "технологичность", "комфорт", "пространство", "административные" 
-и "технические.  Основная цель исследования - разработать модель, в которой различные 
-группы будут максимально удовлетворены в "рациональной микро- и макро-среде".
+В [Ginevichius] решается сложная логистическая задача организация процесса управления имуществом, в который вовлечены разнообразные группы людей в изменяющихся деловых и экономических условиях.  В оценке учитываются не только экономические и бизнес-критерии, но и такие критерии, как "технологичность", "комфорт", "пространство", "административные" и "технические".  Основная цель исследования - разработать модель, в которой различные группы людей будут максимально удовлетворены в "рациональной микро- и макро-среде".
 
-Эффективность использования имущества предлагается оценивать по целой системе критериев,
-включащей цену объекта, цену владения им, цену ремонта, возможности его использования 
-(capasity),  
-Effectiveness of equipment can be evaluated by the fol-
-lowing criteria system:
-–– Price;
-–– Expenses for use;
-–– Expenses for repair (maintenance, capital);
-–– Capacity;
-–– Number of operations performed;
-–– Reliability;
-–– Comfort;
-–– Physical and technical durability;
-–– Weight.
-One of the main tasks of the efficient implementation of
-
-qualitative, technical,
-technological and other characteristics as well. For example,
-an analysis of the service of real estate is usually performed by
-taking into account operational productivity, aesthetic value
-or public image, comfort (noise, colour, air quality, thermal
-comfort, working conditions), flexibility, and cost (design,
-construction, indirect expenses, operating and maintenance
-expenses, renovation costs, the interest paid on loan).
-
-CONC: Real estate management is an information business.
-Technological innovation mainly through changes in the
-availability of information and communication technology include calculators, analysers, software, neural networks,
-decision support and expert systems that have been pro-
-vided by a variety of new services developed by the real
-estate management sector. Most of all calculators, analy-
-sers, software, decision support and expert systems, neural
-networks seek to find out **how to make the most economic
-real estate management decisions**, and most of all these
-decisions are intended only for economic objectives. Real
-estate management alternatives under evaluation have to
-be evaluated not only from the economic position, but take
-into consideration qualitative, technical, technological and
-other characteristics as well. Therefore, applying multiple
-criteria analysis methods and recommender systems may
-increase the efficiency of real estate management calcula-
-tors, analysers, software, neural networks, decision sup-
-port and expert systems. Based on an analysis of existing
-information, expert and decision support systems and in
-order to determine the most efficient versions of real es-
-tate management, Recommender System for Real Estate
-Management was developed by authors of the paper. The
-related questions were also analysed in this paper.
-
-Пытаются предсказать для каждого объекта недвижимости значения его атрибутов - цены, эргономики, стоимости ремонта, назначение и т.п.
+Эффективность использования имущества предлагается оценивать по целой системе критериев, включающей цену объекта, цену владения этим объектом, цену ремонта, возможности его использования (capasity), количеству операций, которые необходимо выполнить по передаче собственности, надежность, комфорт, срок физической и технической эксплуатации, вес (?).  Авторы разрабатывают математический аппарат для предсказания для каждого объекта недвижимости значения его атрибутов - цены, эргономики, стоимости ремонта, назначение и т.п.  Математическое обеспечение РС предложено развивать в направлении ухода от поиска "наиболее экономически выгодного управления недвижимостью" к мультикритериальному выбору и тем самым повысить эффективность (**критерий?**) вычислительных процессов РС (анализа, оценки и т.п.).
 
 SCOPUS http://journal.utem.edu.my/index.php/jtec/index
 
 [Alrawhani]
 В [Alrawhani] предложен проект системы управления недвижимым имуществом, где варианты
-объектов предлагаются на основе вывода на прецедентах (case-based reasoning).  Задача подсистемы вывода 
+объектов предлагаются на основе вывода на прецедентах (case-based reasoning).  Задача подсистемы вывода
 найти прецедент в базе прецедентов, похожий на запрос пользователя.  Система помогает покупателям
 найти имущество, соответствующее их запросам.  При этом система выводит суждения о
 войствах объектов.  Полученная информация затем используется в процессе фильтрации
 содержания и коллаборативной фильтрации.  В дополнение к полученному списку выводится
 также наиболее популярные (most visited) варианты.
 
-Статья описывает только идею, реализация РС не приведена.  В системе пользователи разделены 
-на продавцов и покупателей.  Продавцы "рекламируют" свое имущество, выставленное на продажу, 
-выделяя те свойства недвижимости, которые сами считают важными.  
+Статья описывает только идею, реализация РС не приведена.  В системе пользователи разделены
+на продавцов и покупателей.  Продавцы "рекламируют" свое имущество, выставленное на продажу,
+выделяя те свойства недвижимости, которые сами считают важными.
 Таким образом, в статье предложена идея того, как получать данные для фильтрации
-содержания в задаче разработки РС упраления имуществом: продавцы выступают в виде 
-экспертов-оценщиков недвижимости, формируя информационную базу для фильтрации 
-содержания.  Предложенную идею можно дополнить, если ввеститретий класс пользователей - 
+содержания в задаче разработки РС упраления имуществом: продавцы выступают в виде
+экспертов-оценщиков недвижимости, формируя информационную базу для фильтрации
+содержания.  Предложенную идею можно дополнить, если ввеститретий класс пользователей -
 экспертов-риэлтеров и позволить им дополнять базу данных прецедентов новыми суждениями.
